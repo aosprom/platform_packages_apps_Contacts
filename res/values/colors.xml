@@ -14,6 +14,8 @@
      limitations under the License.
 -->
 <resources>
+    <!-- Adaptive icon background layer color -->
+    <color name="ic_contacts_launcher_background">#2458CA</color>
     <color name="ic_add_contact_shortcut_background">#F5F5F5</color>
 
     <!-- Adaptive icon background layer color -->
@@ -259,4 +261,5 @@
     <!-- Highlight color used in places such as ripples -->
     <color name="control_highlight_color">#1A000000</color>
 
+    <color name="navigation_bar_color">@android:color/white</color>
 </resources>
